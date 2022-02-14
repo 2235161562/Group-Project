@@ -6,13 +6,14 @@ Team members: 张一弛，杨英特
 
 ## Visual Question Answering
 
-![vqa](vqa.png)
+![vqa](https://github.com/2235161562/Group-Project/blob/main/vqa.png)
 
 ## DataSet
 
 #### Download
 
 链接：https://pan.baidu.com/s/1xdo60gx-lIaohkfe-Vfhww 
+
 提取码：stds
 
 #### Introduction
