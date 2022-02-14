@@ -59,13 +59,13 @@ tensorflow-gpu == 1.14.0
 
 ## report
 
-![Report of the DataSet](Report of the DataSet.docx)
+Report of the DataSet.docx
 
-![Report of the VQA Model and Train](Report of the VQA Model and Train.docx)
+Report of the VQA Model and Train.docx
 
 ## demonstration
 
-![PPT of the DataSet](PPT of the DataSet.pptx)
+PPT of the DataSet.pptx
 
-![PPT of the VQA Model and Train](PPT of the VQA Model and Train.pptx)
+PPT of the VQA Model and Train.pptx
 
