@@ -40,21 +40,35 @@ python predict.py --model_path 'Data/Models/model199.ckpt' --image_path 'cat.jpe
 ## Version
 
 #### environment
+
 Python == 3.6.13
+
 cuda == 10.1
 
 #### package
+
 astor == 0.8.1
+
 h5py == 3.1.0
+
 html5lib == 0.9999999
+
 imageio == 2.12.0
+
 jieba == 0.42.1
+
 keras == 2.6.0
+
 numpy == 1.19.5
+
 requests == 2.26.0
+
 scipy == 1.5.4
+
 six == 1.15.0
+
 tensorflow == 1.6.0
+
 tensorflow-gpu == 1.14.0
 
 ## report
