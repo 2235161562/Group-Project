@@ -30,7 +30,7 @@ Model of our train: model199.ckpt in Models
 
 ## Pretrain, Train and Test
 
-```shell
+```sh
 python data_loader.py
 python extract_fc7.py --model_path 'Data/vgg16-20160129.tfmodel' --data_dir 'Data'
 python train.py --data_dir 'Data'
