@@ -6,7 +6,9 @@ Team members: 张一弛，杨英特
 
 ## Visual Question Answering
 
-![vqa](https://github.com/2235161562/Group-Project/blob/main/vqa.png)
+VQA is a new dataset containing open-ended questions about images. These questions require an understanding of vision, language and commonsense knowledge to answer
+
+VQA: https://visualqa.org/
 
 ## DataSet
 
